@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivani Pal's Page</title>
+</head>
+
+<body>
+    <h1><b>Shivani Pal</b></h1>
+    <b>Email:</b>shivani14306@gmail.com |<b>Phone No.:</b>8839873369 | <b>My Github URL:</b><a
+        href="https://github.com/hamfer17">hamfer17</a>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>Indian Institute of Information Technology Allahabad</li>
+        <li>Delhi Public School,Risali</li>
+        <li>Sri Sankara Vidyalaya,Sector-10</li>
+    </ul>
+    <hr>
+    <h2>Skills</h2>
+    <table border="10" width="200">
+        <thead>
+            <tr>
+                <th rowspan="  3">Language </th>
+                <th rowspan="3"> Skill</th>
+            </tr>
+
+        </thead>
+        <thead>
+            <tr>
+                <td>HTML</td>
+                <td>
+                    &#9733
+                    &#9733
+                    &#9733
+                    &#9733
+                    &#9734
+                </td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>
+                    &#9733
+                    &#9733
+                    &#9733
+                    &#9734
+                    &#9734
+                </td>
+            </tr>
+            <tr>
+                <td>Javascript</td>
+                <td>
+                    &#9733
+                    &#9733
+                    &#9734
+                    &#9734
+                    &#9734
+                </td>
+            </tr>
+        </thead>
+    </table>
+    <hr>
+    <h2>Contact Me!</h2>
+    <form>
+        <div>
+            <label for="name"><b>Your Name:</b></label>
+            <input type="text" id="name" value="Enter Your Name">
+        </div>
+        <p>
+        <div>
+            <label for="email"><b>Email:</b></label>
+            <input type="email" id="email" value="Enter Your Email id">
+        </div>
+        </p>
+        <p>
+        <div>
+            <label for="message"><b>Your Message:</b></label>
+
+            <textarea placeholder="enter your message"></textarea>
+        </div>
+        </p>
+        <button>Submit Here</button>
+    </form>
+
+
+</body>
+
+</html>
